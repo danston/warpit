@@ -35,7 +35,7 @@ In order to run the program do the following:
 
 ##### Mac OS:
 
-1. First method (open termianl):  
+1. First method (open terminal):  
 
 ```bash
 cd path_to/warpit/
