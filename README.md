@@ -73,7 +73,7 @@ open warpit.app
 
 ### Screenshots
 
-**_Main screen with the loaded texture_**  
+**_Main window with the loaded texture_**  
 ![Screenshot 1](screenshots/1.png)
 
 **_Load the source polygon_**  
