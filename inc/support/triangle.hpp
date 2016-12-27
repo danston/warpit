@@ -248,7 +248,7 @@
 /*                                                                           */
 /*****************************************************************************/
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     #define VOIDT int

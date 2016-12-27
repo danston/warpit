@@ -1,5 +1,4 @@
-//* Authors: Dmitry Anisimov
-//* mainwindow.cpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 // Todo list:
@@ -17,7 +16,7 @@
 // Qt includes.
 #include <QFileDialog>
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // Constructor.

@@ -1,5 +1,4 @@
-//* Authors: Dmitry Anisimov
-//* polygon.hpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 // Todo list:
@@ -15,7 +14,7 @@
 // Local includes.
 #include "vertex.hpp"
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // The polygon class.

@@ -1,5 +1,4 @@
-//* Authors: Dmitry Anisimov
-//* vertex.hpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 #ifndef VERTEX_HPP
@@ -11,7 +10,7 @@
 // Local includes.
 #include "vector2d.hpp"
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // Vertex data structure.

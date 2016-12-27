@@ -1,5 +1,4 @@
-//* Authors: Kai Hormann and Dmitry Anisimov
-//* trimesh.hpp
+//* Authors: Kai Hormann and Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 #ifndef TRIMESH_HPP
@@ -14,7 +13,7 @@
 #include "vertex.hpp"
 #include "halfedge.hpp"
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // Triangle mesh with the mixed data structure.

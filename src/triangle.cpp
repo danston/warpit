@@ -364,7 +364,7 @@
 
 #define ANSI_DECLARATORS
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     /* A few forward declarations.                                               */

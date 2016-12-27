@@ -1,5 +1,4 @@
-//* Authors: Teseo Schneider and Dmitry Anisimov
-//* triangulator.hpp
+//* Authors: Teseo Schneider and Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 // This is the wrapper for the triangle library.
@@ -22,7 +21,7 @@
 #include "polygon.hpp"
 #include "triangle.hpp"
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     static const double SQRT3_OVER_4 = 0.43301270189222;

@@ -1,5 +1,4 @@
-//* Authors: Dmitry Anisimov
-//* qtviewer.cpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 // Todo list:
@@ -13,7 +12,7 @@
 #include <QPen>
 #include <QApplication>
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // Constructor.

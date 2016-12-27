@@ -1,5 +1,4 @@
-//* Authors: Dmitry Anisimov
-//* qtviewer.hpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 #ifndef QTVIEWER_HPP
@@ -13,7 +12,7 @@
 #include <QPainter>
 #include <QMouseEvent>
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // QT viewer.

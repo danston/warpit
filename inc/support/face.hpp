@@ -1,11 +1,10 @@
-//* Authors: Dmitry Anisimov
-//* face.hpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 #ifndef FACE_HPP
 #define FACE_HPP
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // Face data structure.

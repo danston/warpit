@@ -31,7 +31,7 @@
 #include <limits>
 #include <vector>
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     template<typename T> class Vector2D;

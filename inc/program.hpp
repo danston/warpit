@@ -1,5 +1,4 @@
-//* Authors: Dmitry Anisimov
-//* program.hpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 #ifndef PROGRAM_HPP
@@ -12,7 +11,7 @@
 // Qt includes.
 #include <QPoint>
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // The main program class.

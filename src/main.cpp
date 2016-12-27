@@ -1,5 +1,4 @@
-//* Authors: Dmitry Anisimov
-//* main.cpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 // Local includes.

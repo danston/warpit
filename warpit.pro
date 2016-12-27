@@ -1,7 +1,7 @@
-#---------------------------------------#
-#-Project created by QtCreator 04.02.15-#
-#-Author: Dmitry Anisimov (c)-----------#
-#---------------------------------------#
+#------------------------------------------------------------#
+#----Author: Dmitry Anisimov (c) 2016-2017-------------------#
+#----With any questions please contact: danston@ymail.com----#
+#------------------------------------------------------------#
 
 # Options.
 QT += core gui opengl
@@ -23,16 +23,16 @@ TEMPLATE = app
 # The global path to the project.
 
 # MAC OS
-DEFINES += PROJECT_PATH=\"\\\"$$/Users/danston/Documents/github/warpit\\\"\"
+DEFINES += PROJECT_PATH=\"\\\"$$/Users/your_username/path_to/warpit\\\"\"
 
 # WINDOWS
 # DEFINES += PROJECT_PATH=\"\\\"C:\\\Users\\\your_username\\\path_to\\\warpit\\\"\"
 
 # Paths to local includes.
 
-# OS
-INCLUDEPATH += /Users/danston/Documents/github/warpit/inc
-INCLUDEPATH += /Users/danston/Documents/github/warpit/inc/support
+# MAC OS
+INCLUDEPATH += /Users/your_username/path_to/warpit/inc
+INCLUDEPATH += /Users/your_username/path_to/warpit/inc/support
 
 # WINDOWS
 # INCLUDEPATH += C:\Users\your_username\path_to\warpit\inc

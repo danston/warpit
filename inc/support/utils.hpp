@@ -1,5 +1,4 @@
-//* Authors: Teseo Schneider and Dmitry Anisimov
-//* utils.hpp
+//* Authors: Teseo Schneider and Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 #ifndef UTILS_HPP
@@ -20,7 +19,7 @@
 // STL includes.
 #include <string>
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // The util class.

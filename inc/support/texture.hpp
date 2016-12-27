@@ -1,5 +1,4 @@
-//* Authors: Teseo Schneider and Dmitry Anisimov
-//* texture.hpp
+//* Author: Dmitry Anisimov (c) 2016-2017
 //* With any questions please contact: danston@ymail.com
 
 #ifndef TEXTURE_HPP
@@ -16,7 +15,7 @@
 #include <QGLFunctions>
 #include <QImageReader>
 
-// warpit namespace.
+// warpit namespace
 namespace warpit {
 
     // The texture class.
