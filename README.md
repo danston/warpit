@@ -8,7 +8,7 @@ This program allows you to morph a 2D image as shown in the screenshots section 
 
 ### Run the code
 
-In order to run the program do the following:
+In order to run the program, do the following:
 
 #### A. Preparation:
 
