@@ -35,7 +35,7 @@ In order to run the program do the following:
 
 ##### Mac OS:
 
-1. First method (open terminal):  
+First method (open terminal):  
 
 ```bash
 cd path_to/warpit/
@@ -56,7 +56,7 @@ make -j7
 open warpit.app
 ```
 
-2. Second method (go the project folder):
+Second method (go the project folder):
 
   a. Configure the file warpit.pro with Qt Creator (just open it and follow the instructions)  
   b. Choose Release vesion in the left bottom corner  
