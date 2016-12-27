@@ -12,12 +12,26 @@
  Mail: danston@ymail.com
  Web: http://www.anisimovdmitry.com
  
+ NOTE that this file has a different license from that one of the project!
+ 
 */
 
-/*! TROUBLES
+/*! LICENSE
 
- With all the questions related to the class, please let me know about them by the email
- provided at the top of this file.
+ Vector2D is a C++ class which provides some functions to handle 2-dimensional vectors.
+ 
+ Vector2D is free software: you can redistribute it and/or modify
+ it under the terms of the GNU Lesser General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ Vector2D is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY, without even the implied warranty of the
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU Lesser General Public License for more details.
+ 
+ You should have received a copy of the GNU Lesser General Public License
+ along with Vector2D. If not, see <http://www.gnu.org/licenses/>.
  
 */
 
